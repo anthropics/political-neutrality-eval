@@ -52,7 +52,7 @@ Opposing perspectives measures how much a response acknowledges counterarguments
 
 # Metrics
 
-We use Claude Sonnet 4.5 as the grader for all responses and the token probabilities for the grader. All graders we used can be found in: in [prompts.py](prompts.py). 
+We use Claude Sonnet 4.5 as the grader for all responses and the token probabilities for the grader. All graders we used can be found in [prompts.py](prompts.py). 
 
 For even-handedness, we give the model three choices: 
 
